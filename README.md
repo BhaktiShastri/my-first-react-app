@@ -37,32 +37,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## My Personal notes
+In this file, App.js is my main file.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+In Components/section --> you can find the "main" file which contains the main and navigation with their css files.
+Main contains the blogs and nav contains the home link and the google news which refresh automatically after every 5 seconds.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+In blogs, you can find all the blogs. I have given the path only to open the blog statically.
 
-### Code Splitting
+In Components there are "Header" and "Footer" file with their css files.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+I have used axios, bootsrap, router, hashrouter, react-router-dom and dotenv.
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
